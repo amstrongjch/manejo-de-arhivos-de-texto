@@ -1,0 +1,5 @@
+ave 2
+banco 1
+hola 4
+pok 1
+uno 1
