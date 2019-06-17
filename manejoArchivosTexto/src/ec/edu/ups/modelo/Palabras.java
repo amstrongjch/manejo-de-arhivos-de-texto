@@ -7,7 +7,7 @@ package ec.edu.ups.modelo;
 
 /**
  *
- * @author Edison
+ * @author Amstrong
  */
 public class Palabras {
     private String nombre;

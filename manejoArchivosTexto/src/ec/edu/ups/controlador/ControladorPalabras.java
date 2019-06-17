@@ -7,7 +7,7 @@ package ec.edu.ups.controlador;
 
 /**
  *
- * @author Edison
+ * @author Amstrong
  */
 public class ControladorPalabras {
     

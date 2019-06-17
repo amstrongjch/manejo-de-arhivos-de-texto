@@ -11,12 +11,12 @@ import java.io.IOException;
 
 /**
  *
- * @author Edison
+ * @author Amstrong
  */
 public class main {
     public static void main(String[]args) throws IOException{
         Controlador co = new Controlador();
-        String ruta = "C:\\Users\\Edison\\Documents\\NetBeansProjects\\NPLandBOW\\src\\ec\\edu\\ups\\archivos";
+        String ruta = "C:\\Users\\Amstrong\\Documents\\NetBeansProjects\\manejo-de-arhivos-de-texto\\manejoArchivosTexto\\src\\ec\\edu\\ups\\archivos";
             File archivo = new File(ruta);
             File[] archivos = archivo.listFiles();
             for (File newarchivo : archivos) {
